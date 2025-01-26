@@ -11,7 +11,7 @@ The keypad used is a simple 3x4 button keypad.
 A continous servo is used to spin the drum when dispensing .
 The drum is held in a plastic cup with a hole at the bottom. An additonal piece is placed above the hole to keep multiple dice from falling through the hole.
 
-A demo and promotional video for this project is availible at https://www.youtube.com/@BrettDwyerTAMU
+A promotional video for this project is availible at https://www.youtube.com/@BrettDwyerTAMU
 
 ## Operation Instructions ##
 With a fully assembled project, connect the power.

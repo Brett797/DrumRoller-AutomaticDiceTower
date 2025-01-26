@@ -15,22 +15,29 @@ A demo and promotional video for this project is availible at https://www.youtub
 
 ## Operation Instructions ##
 With a fully assembled project, connect the power.
+
 To dispense 1-6 dice press the corresponding key on the keypad.
     The correct number of dice will fall into the tray, then the drum will stop.
+    
 To return the dice to the cup, you have two options.
     Pressing 0 will automatically raise the tray and then lower it shortly after.
     Pressing * will raise the tray, and pressing # will lower it.
         These can be useful as manual overrides.
+        
 ** Special Modes **
+
 Pressing 7 will activate "Demo" Mode.
     You will need to press one of the number buttons to select the number of dice to roll.
     Once that is done, the dice will be dispensed then immediately returned to the cup.
+    
 Pressing 8 will activate "Timed Return" Mode.
     This acts like Demo Mode, but with a 7.5 second delay before returning the dice.
     This can be used to roll many dice quickly automatically.
+    
 Pressing 9 will activate "Empty to Table" Mode.
     This will raise the tray then spin the drum.
     This can be used to roll lots of dice without filling up the tray.
+    
 To exit any of these special modes press any button while the drum is spinning.
   
 

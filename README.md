@@ -1,6 +1,6 @@
 # DrumRoller-AutomaticDiceTower
 This is a project made during TAMUhack 2025 it is a dice rolling tower which will automatically roll a requested number of dice. 
-Various modes for that are included which provide futher automation
+Various modes are included which provide futher automation.
 
 The source code requires the Arduino IDE with the VarSpeedServo library installed to compile and upload to the board.
 The board used for this project is the Atmega 2560, with a shield board used for conecting to the board. However the shield is not strictly necessary.
@@ -9,7 +9,7 @@ It is highly recommended that a well charhed battery or higher voltage power sup
 
 The keypad used is a simple 3x4 button keypad.
 A continous servo is used to spin the drum when dispensing .
-
+The drum is held in a plastic cup with a hole at the bottom. An additonal piece is placed above the hole to keep multiple dice from falling through the hole.
 
 A demo and promotional video for this project is availible at https://www.youtube.com/@BrettDwyerTAMU
 
